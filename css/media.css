@@ -60,10 +60,10 @@ padding-bottom: 20px;
     padding-top: 0px;
 }
 #discover .blast1 {
-    width: 57vw;
+    width: 55vw;
     bottom: 268px;
     z-index: 0;
-    bottom: 34%;
+    bottom: 35%;
 }
 .banner-btn {
     margin-left: 190px;
@@ -107,7 +107,7 @@ padding-bottom: 20px;
     position: relative;
 }
 .blast2 {
-    top: -140px;
+    top: -150px;
     width: 74vw;
     z-index: -1;
 }
