@@ -62,7 +62,7 @@ padding-bottom: 20px;
 #discover .blast1 {
     width: 59vw;
     z-index: 0;
-    bottom: 39%;
+    bottom: 36%;
 }
 .banner-btn {
     margin-left: 190px;
@@ -146,7 +146,7 @@ padding-bottom: 20px;
     padding-bottom: 19px;
 }
 #chance {
-    height: 455px;
+    height: 485px;
 }
 .chance-left p {
     font-size: 18px;
@@ -1017,6 +1017,7 @@ footer {
 }
 
 }
+
 
 
 
