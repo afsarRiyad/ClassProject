@@ -60,7 +60,6 @@ Using CSS Flexbox / positioning
 Structuring real website projects
 
 👨‍💻 Author
-
 Riyad
 
 GitHub:
