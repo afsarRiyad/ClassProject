@@ -12,7 +12,7 @@ text-align: center;
 .navbar-collapse {
 background-color: grey;
 border-radius: 15px;
-padding-bottom: 20px;
+padding-bottom: 21px;
 }
 .navbar-nav .nav-link::after {
     left: 50%;
@@ -1017,6 +1017,7 @@ footer {
 }
 
 }
+
 
 
 
