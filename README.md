@@ -63,7 +63,7 @@ Using CSS Flexbox / positioning
 Structuring real website projects
 
 👨‍💻 Author
-Riyad
+Nurul Afsar Riyad
 
 GitHub:
 https://github.com/afsarRiyad
