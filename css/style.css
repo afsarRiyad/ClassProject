@@ -26,6 +26,10 @@ p {
     padding-top: 20px;
 }
 
+.brand{
+     color:white;
+}
+
 .navbar-brand {
     font-family: "Clicker Script", cursive;
     font-weight: 400;
