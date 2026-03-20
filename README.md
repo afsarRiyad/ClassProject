@@ -13,7 +13,6 @@ Structure the page using semantic HTML
 Implement styling using CSS
 
 
-
 Recreate the exact UI design from Figma
 
 ✨ Features
