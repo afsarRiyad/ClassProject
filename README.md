@@ -27,7 +27,6 @@ Responsive design
 
 Organized project structure
 
-
 🛠️ Technologies Used
 
 HTML5
