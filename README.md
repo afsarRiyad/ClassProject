@@ -35,7 +35,6 @@ CSS3
 
 Figma (Design Reference)
 
-
 📂 Project Structure
 ClassProject
 │
